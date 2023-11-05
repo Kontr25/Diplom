@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkinIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e885104c9bc701e45862e1ca97dd0517, type: 3}
+    - {fileID: 2800000, guid: 29a799d90e8bd804989ec9b3417c39ee, type: 3}
+    - {fileID: 2800000, guid: 963eaf74eb1de4d45b3d8909a1300904, type: 3}
+    - {fileID: 2800000, guid: 33d7c0e6b76c8ce44a3e1d7b36a1fee7, type: 3}
+    - {fileID: 2800000, guid: e63a60bbaa302ba4a84704a4b3663435, type: 3}
+    - {fileID: 2800000, guid: 757cb505d2cfc4a4f97a89d1294f5571, type: 3}
+    - {fileID: 2800000, guid: e2033c3ca1d91b04c9dd9afa6fc93c7d, type: 3}
+    - {fileID: 2800000, guid: f395d32f9658eb14db4c3db7c20ccc91, type: 3}
+    - {fileID: 2800000, guid: 86d58335c0314e546a872a420a2bc5c6, type: 3}
+    - {fileID: 2800000, guid: 8a899e789fbd39d408b5db4b32b980ba, type: 3}
+    - {fileID: 2800000, guid: a2bd5d53400e4d5458756214228b0540, type: 3}
+    - {fileID: 2800000, guid: 3d14ce495d0365a49839f671fe54faec, type: 3}
+    - {fileID: 2800000, guid: 2fd5f2f891093d74da532664bdc59aa8, type: 3}
+    - {fileID: 2800000, guid: 287d8d1159f2c9e45af6f77842d7cecf, type: 3}
+    - {fileID: 2800000, guid: 7ee763042df86c14cbb9e545050b2ada, type: 3}
+    - {fileID: 2800000, guid: 79d757efb85a8534088afeab1d63cce5, type: 3}
+    - {fileID: 2800000, guid: 42a23c11207a3fb428123717e10f816c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 42a23c11207a3fb428123717e10f816c, type: 3}
+  - {fileID: 21300000, guid: 287d8d1159f2c9e45af6f77842d7cecf, type: 3}
+  - {fileID: 21300000, guid: a2bd5d53400e4d5458756214228b0540, type: 3}
+  - {fileID: 21300000, guid: 7ee763042df86c14cbb9e545050b2ada, type: 3}
+  - {fileID: 21300000, guid: 963eaf74eb1de4d45b3d8909a1300904, type: 3}
+  - {fileID: 21300000, guid: 757cb505d2cfc4a4f97a89d1294f5571, type: 3}
+  - {fileID: 21300000, guid: 86d58335c0314e546a872a420a2bc5c6, type: 3}
+  - {fileID: 21300000, guid: 33d7c0e6b76c8ce44a3e1d7b36a1fee7, type: 3}
+  - {fileID: 21300000, guid: 8a899e789fbd39d408b5db4b32b980ba, type: 3}
+  - {fileID: 21300000, guid: 2fd5f2f891093d74da532664bdc59aa8, type: 3}
+  - {fileID: 21300000, guid: 3d14ce495d0365a49839f671fe54faec, type: 3}
+  - {fileID: 21300000, guid: 29a799d90e8bd804989ec9b3417c39ee, type: 3}
+  - {fileID: 21300000, guid: e63a60bbaa302ba4a84704a4b3663435, type: 3}
+  - {fileID: 21300000, guid: e2033c3ca1d91b04c9dd9afa6fc93c7d, type: 3}
+  - {fileID: 21300000, guid: e885104c9bc701e45862e1ca97dd0517, type: 3}
+  - {fileID: 21300000, guid: f395d32f9658eb14db4c3db7c20ccc91, type: 3}
+  - {fileID: 21300000, guid: 79d757efb85a8534088afeab1d63cce5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fog
+  - pixil-frame-0 (4)
+  - StiveIcon
+  - pixil-frame-0 (10)
+  - IconBanana
+  - IconIno
+  - NarutoIcon
+  - IconCoco
+  - SkeletonIcon
+  - frame
+  - Ellipse_23
+  - DogIcon
+  - IconCosmo
+  - IconOrangeRobo
+  - AlexaIcon
+  - IronManIcon
+  - "fog \u2014 \u043A\u043E\u043F\u0438\u044F"
+  m_RenderDataMap: {}
+  m_Tag: SkinIcons
+  m_IsVariant: 0
